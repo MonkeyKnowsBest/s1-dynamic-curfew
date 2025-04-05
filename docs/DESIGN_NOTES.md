@@ -1,4 +1,4 @@
-# Dynamic Night Movement Mod for Schedule I
+# Dynamic Curfew Mod for Schedule I
 
 ## Project Overview
 A comprehensive mod that transforms the game's nighttime mechanics by introducing a dynamic heat and restriction system that increases gameplay complexity and tension.
