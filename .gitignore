@@ -1,0 +1,32 @@
+# Visual Studio files
+*.suo
+*.user
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+[Bb]in/
+[Oo]bj/
+
+# MelonLoader
+MelonLoader/
+Il2CppAssemblies/
+
+# Log files
+*.log
+
+# Personal developer configurations
+.vs/
+
+# Dependency directories
+dependencies/
+
+# Temp files
+*.tmp
+*~
+
+# Never commit sensitive or local configuration
+*.local.json
+*.local.yml
